@@ -1,11 +1,12 @@
 package br.com.alura.myusica;
 
-import java.util.Iterator;
-
 import br.com.alura.myusica.modelos.MinhasPreferidas;
 import br.com.alura.myusica.modelos.Musicas;
 import br.com.alura.myusica.modelos.Podcasts;
-
+/*
+UM PROGRAMA DE TESTE PARA OS EXERCÍCIOS PASSADOS NAS AULAS DA ALURA PARA BOTAR
+EM PRÁTICA O QUE FOI APRENDIDO.
+ */
 public class main {
 
 	public static void main(String[] args) {
